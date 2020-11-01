@@ -9,4 +9,4 @@ From the 2 given options, I chose to implement the Histogram equalization one. I
 5. Linear filtered Images will be saved in `Equalized_images` with thier filename prefix with `equalized`.
 
 ### Deployment
-deployment can be in pythonanywhere cloud server.
+deployment can be done in pythonanywhere cloud server.
